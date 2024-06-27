@@ -1,0 +1,9 @@
+﻿LockUp.cs will take 15-30 minutes.
+Game.cs will take 15-45m.
+Mover.cs 15-45m.
+Weapon.cs will take 15-45m.
+Tools.cs 45m.
+Player.cs 15-45m.
+Potion.cs 30m.
+Enemy.cs 15-30m.
+Enemies.cs 45m.
